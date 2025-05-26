@@ -1,7 +1,7 @@
 function VentanaFeliz(){
-    window.open("yes.html", "_blank");
+    window.location.href="yes.html";
 }
 
 function VentanaTriste(){
-    window.open("no.html", "_blank");
+    window.location.href="no.html";
 }
